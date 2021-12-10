@@ -1,12 +1,12 @@
 {
     "header": {
-        "titulo": "How It Works",
+        "titulo": "feijao",
         "imagem": "linkfdosafd"
     },
     "colunas": {
         "cards": [
             {
-                "imagem": "sdafsdaf",
+                "imagem": "arroz.png",
                 "titulo": "List",
                 "text": [
                     "",
@@ -32,6 +32,7 @@
         ]
     },
     "service": {
+        "sem": "firula",
         "titulo": "Courier Service",
         "text": [
             "",
