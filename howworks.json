@@ -24,6 +24,7 @@
         ]
     },
     "service": {
+        "sem": "firula",
         "titulo": "Courier Service",
         "text": [
             "",
