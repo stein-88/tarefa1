@@ -17,7 +17,7 @@
 Isso daqui é um hiperlink
 [facebook](https://facebook.com)
 
-Esse texto [grandao eu to](https://google.com) falando varais coisas que nem to pensando sobre isso
+Esse texto [grandao eu to](https://google.com) falando varais coisas
 
 A ordem dos comando necessários
 `git add --all`
