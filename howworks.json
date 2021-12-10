@@ -1,18 +1,10 @@
 {
     "header": {
-        "titulo": "How It Works",
+        "titulo": "Wanderson",
         "imagem": "linkfdosafd"
     },
     "colunas": {
         "cards": [
-            {
-                "imagem": "sdafsdaf",
-                "titulo": "List",
-                "text": [
-                    "",
-                    ""
-                ]
-            },
             {
                 "imagem": "sdafsdaf",
                 "titulo": "Request",
